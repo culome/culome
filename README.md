@@ -10,3 +10,9 @@
 
   <img align="center" src="https://ghrm.vercel.app/api/top-langs/?username=culome&langs_count=6&hide_title=true&hide_border=true&layout=compact" width="32%" />
 </p>
+
+## My Projects
+
+- VOCA: an AI-powered vocabulary memo book. / VOCA，一款由 AI 驱动的智能单词记忆本。
+  
+  https://voca.lio.kim
